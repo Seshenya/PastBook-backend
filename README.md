@@ -11,10 +11,12 @@ An application to save your favourite photos
 
 2. Install Dependencies
 ```command prompt
-npm install```
+npm install
+```
 
 3. Set the mongodb connection string in the configuration
 
 4. Run the application (served on http://localhost:2010)
 ```command prompt
-node app.js```
+node app.js
+```
